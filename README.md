@@ -1,6 +1,7 @@
 # yarn-bug-repro
 
 ```bash
-cd packages/package-1
+git clone git@github.com:bertho-zero/yarn-bug-repro.git
+cd yarn-bug-repro/packages/package-1
 yarn start
 ```
