@@ -1,0 +1,6 @@
+{
+  "name": "package-3",
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "yarn-bug-repro",
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "packages/*"
+    ]
+  },
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
