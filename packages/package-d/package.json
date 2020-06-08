@@ -1,5 +1,5 @@
 {
-  "name": "@openagenda/home",
+  "name": "@openagenda/package-d",
   "version": "2.1.9",
   "devDependencies": {
     "@babel/core": "^7.10.2",

@@ -1,5 +1,5 @@
 {
-  "name": "@openagenda/supervisor",
+  "name": "@openagenda/package-b",
   "version": "1.1.2",
   "devDependencies": {
     "@babel/core": "^7.10.2",
