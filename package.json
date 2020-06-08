@@ -1,12 +1,12 @@
 {
-  "name": "yarn-bug-repro",
+  "name": "oa",
+  "version": "1.0.0",
+  "description": "OpenAgenda monorepo",
+  "author": "OpenAgenda Dev Team",
   "private": true,
   "workspaces": {
     "packages": [
       "packages/*"
     ]
-  },
-  "devDependencies": {
-    "jest": "^25.1.0"
   }
 }

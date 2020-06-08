@@ -1,0 +1,8 @@
+{
+  "name": "@openagenda/home",
+  "version": "2.1.9",
+  "devDependencies": {
+    "@babel/core": "^7.10.2",
+    "@storybook/react": "^5.3.9"
+  }
+}

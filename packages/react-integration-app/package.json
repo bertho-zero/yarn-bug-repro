@@ -1,0 +1,8 @@
+{
+  "name": "@openagenda/react-intergration-app",
+  "version": "1.2.2",
+  "license": "MIT",
+  "dependencies": {
+    "@openagenda/supervisor": "^1.1.2"
+  }
+}

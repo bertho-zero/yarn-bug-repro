@@ -1,0 +1,20 @@
+/.idea/
+/.vscode/
+/lerna-debug.log
+node_modules/
+npm-debug.log
+coverage/
+doctor.log
+.env
+sftp-config.json
+docker/devinstaller/ssl/certs
+docker/devinstaller/ssl/domains
+
+# yarn
+.yarn/*
+!.yarn/releases
+!.yarn/plugins
+.pnp.*
+yarn-error.log
+
+/secrets.tar
